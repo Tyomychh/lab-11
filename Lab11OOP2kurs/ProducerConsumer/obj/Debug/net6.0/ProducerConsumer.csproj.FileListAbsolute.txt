@@ -1,0 +1,15 @@
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\ProducerConsumer\bin\Debug\net6.0\ProducerConsumer.exe
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\ProducerConsumer\bin\Debug\net6.0\ProducerConsumer.deps.json
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\ProducerConsumer\bin\Debug\net6.0\ProducerConsumer.runtimeconfig.json
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\ProducerConsumer\bin\Debug\net6.0\ProducerConsumer.dll
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\ProducerConsumer\bin\Debug\net6.0\ProducerConsumer.pdb
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\ProducerConsumer\obj\Debug\net6.0\ProducerConsumer.csproj.AssemblyReference.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\ProducerConsumer\obj\Debug\net6.0\ProducerConsumer.GeneratedMSBuildEditorConfig.editorconfig
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\ProducerConsumer\obj\Debug\net6.0\ProducerConsumer.AssemblyInfoInputs.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\ProducerConsumer\obj\Debug\net6.0\ProducerConsumer.AssemblyInfo.cs
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\ProducerConsumer\obj\Debug\net6.0\ProducerConsumer.csproj.CoreCompileInputs.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\ProducerConsumer\obj\Debug\net6.0\ProducerConsumer.dll
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\ProducerConsumer\obj\Debug\net6.0\refint\ProducerConsumer.dll
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\ProducerConsumer\obj\Debug\net6.0\ProducerConsumer.pdb
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\ProducerConsumer\obj\Debug\net6.0\ProducerConsumer.genruntimeconfig.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\ProducerConsumer\obj\Debug\net6.0\ref\ProducerConsumer.dll

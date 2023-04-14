@@ -1,0 +1,15 @@
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\HighRiseQuickSort\bin\Debug\net6.0\HighRiseQuickSort.exe
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\HighRiseQuickSort\bin\Debug\net6.0\HighRiseQuickSort.deps.json
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\HighRiseQuickSort\bin\Debug\net6.0\HighRiseQuickSort.runtimeconfig.json
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\HighRiseQuickSort\bin\Debug\net6.0\HighRiseQuickSort.dll
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\HighRiseQuickSort\bin\Debug\net6.0\HighRiseQuickSort.pdb
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\HighRiseQuickSort\obj\Debug\net6.0\HighRiseQuickSort.csproj.AssemblyReference.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\HighRiseQuickSort\obj\Debug\net6.0\HighRiseQuickSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\HighRiseQuickSort\obj\Debug\net6.0\HighRiseQuickSort.AssemblyInfoInputs.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\HighRiseQuickSort\obj\Debug\net6.0\HighRiseQuickSort.AssemblyInfo.cs
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\HighRiseQuickSort\obj\Debug\net6.0\HighRiseQuickSort.csproj.CoreCompileInputs.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\HighRiseQuickSort\obj\Debug\net6.0\HighRiseQuickSort.dll
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\HighRiseQuickSort\obj\Debug\net6.0\refint\HighRiseQuickSort.dll
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\HighRiseQuickSort\obj\Debug\net6.0\HighRiseQuickSort.pdb
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\HighRiseQuickSort\obj\Debug\net6.0\HighRiseQuickSort.genruntimeconfig.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\HighRiseQuickSort\obj\Debug\net6.0\ref\HighRiseQuickSort.dll

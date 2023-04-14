@@ -1,0 +1,15 @@
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\TransportIntersection\bin\Debug\net6.0\TransportIntersection.exe
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\TransportIntersection\bin\Debug\net6.0\TransportIntersection.deps.json
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\TransportIntersection\bin\Debug\net6.0\TransportIntersection.runtimeconfig.json
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\TransportIntersection\bin\Debug\net6.0\TransportIntersection.dll
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\TransportIntersection\bin\Debug\net6.0\TransportIntersection.pdb
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\TransportIntersection\obj\Debug\net6.0\TransportIntersection.csproj.AssemblyReference.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\TransportIntersection\obj\Debug\net6.0\TransportIntersection.GeneratedMSBuildEditorConfig.editorconfig
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\TransportIntersection\obj\Debug\net6.0\TransportIntersection.AssemblyInfoInputs.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\TransportIntersection\obj\Debug\net6.0\TransportIntersection.AssemblyInfo.cs
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\TransportIntersection\obj\Debug\net6.0\TransportIntersection.csproj.CoreCompileInputs.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\TransportIntersection\obj\Debug\net6.0\TransportIntersection.dll
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\TransportIntersection\obj\Debug\net6.0\refint\TransportIntersection.dll
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\TransportIntersection\obj\Debug\net6.0\TransportIntersection.pdb
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\TransportIntersection\obj\Debug\net6.0\TransportIntersection.genruntimeconfig.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\TransportIntersection\obj\Debug\net6.0\ref\TransportIntersection.dll

@@ -1,0 +1,15 @@
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\ParallelMultiplicationOfMatrices\bin\Debug\net6.0\ParallelMultiplicationOfMatrices.exe
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\ParallelMultiplicationOfMatrices\bin\Debug\net6.0\ParallelMultiplicationOfMatrices.deps.json
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\ParallelMultiplicationOfMatrices\bin\Debug\net6.0\ParallelMultiplicationOfMatrices.runtimeconfig.json
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\ParallelMultiplicationOfMatrices\bin\Debug\net6.0\ParallelMultiplicationOfMatrices.dll
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\ParallelMultiplicationOfMatrices\bin\Debug\net6.0\ParallelMultiplicationOfMatrices.pdb
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\ParallelMultiplicationOfMatrices\obj\Debug\net6.0\ParallelMultiplicationOfMatrices.csproj.AssemblyReference.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\ParallelMultiplicationOfMatrices\obj\Debug\net6.0\ParallelMultiplicationOfMatrices.GeneratedMSBuildEditorConfig.editorconfig
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\ParallelMultiplicationOfMatrices\obj\Debug\net6.0\ParallelMultiplicationOfMatrices.AssemblyInfoInputs.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\ParallelMultiplicationOfMatrices\obj\Debug\net6.0\ParallelMultiplicationOfMatrices.AssemblyInfo.cs
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\ParallelMultiplicationOfMatrices\obj\Debug\net6.0\ParallelMultiplicationOfMatrices.csproj.CoreCompileInputs.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\ParallelMultiplicationOfMatrices\obj\Debug\net6.0\ParallelMultiplicationOfMatrices.dll
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\ParallelMultiplicationOfMatrices\obj\Debug\net6.0\refint\ParallelMultiplicationOfMatrices.dll
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\ParallelMultiplicationOfMatrices\obj\Debug\net6.0\ParallelMultiplicationOfMatrices.pdb
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\ParallelMultiplicationOfMatrices\obj\Debug\net6.0\ParallelMultiplicationOfMatrices.genruntimeconfig.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab11\Lab11OOP2kurs\ParallelMultiplicationOfMatrices\obj\Debug\net6.0\ref\ParallelMultiplicationOfMatrices.dll
